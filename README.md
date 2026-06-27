@@ -28,6 +28,21 @@ Always learning. Always building. 🚀
 </p>
 
 
+## 🚀 Featured Projects
+
+### 🐳 Flask + MySQL + Docker
+
+A containerized backend application built using Flask, MySQL, and Docker.
+
+**Tech Stack**
+- Python
+- Flask
+- MySQL
+- Docker
+
+🔗 Repository: https://github.com/chaarvijoshi/flask-mysql-docker
+
+---
 
 
 <!--
