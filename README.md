@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Chaarvi Joshi</h1>
 
+<marquee behavior="scroll" direction="left">
+  👋 Welcome to my GitHub Profile! 🚀
+</marquee>
+
 <h3 align="center">
 AI/ML Explorer | Backend Developer | Docker & DevOps Learner
 </h3>
