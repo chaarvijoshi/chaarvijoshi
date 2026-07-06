@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Chaarvi Joshi</h1>
 
-<marquee behavior="scroll" direction="left">
-  👋 Welcome to my GitHub Profile! 🚀
+<marquee behavior="alternate" scrollamount="8">
+  🌟 Welcome to My GitHub Profile! Thanks for visiting! 💻✨
 </marquee>
 
 <h3 align="center">
