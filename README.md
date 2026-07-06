@@ -57,6 +57,5 @@ A containerized backend application built using Flask, MySQL, and Docker.
 - ⚡ REST APIs
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaarvijoshi&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaarvijoshi&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=chaarvijoshi&theme=tokyonight&hide_border=true"/>
 </p>
