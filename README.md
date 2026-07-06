@@ -1,13 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Chaarvi Joshi</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=28&duration=2500&pause=0&color=36BCF7&width=900&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!" />
-</p>
 
 <h3 align="center">
-AI/ML Explorer | Backend Developer | Docker & DevOps Learner
+  👋 Welcome to My GitHub Profile 🌟
 </h3>
+
+<h4 align="center">
+  🤖 AI/ML Explorer • 🧠 Turning Data into Intelligence • 🐳 Docker & DevOps Learner • 🚀 Open Source Enthusiast
+</h4>
 
 <p align="center">
 Always learning. Always building. 🚀
