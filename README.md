@@ -1,4 +1,4 @@
-</p>## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Chaarvi Joshi</h1>
 
 <h3 align="center">
