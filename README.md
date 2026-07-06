@@ -59,3 +59,7 @@ A containerized backend application built using Flask, MySQL, and Docker.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chaarvijoshi&theme=tokyonight&hide_border=true"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaarvijoshi&theme=tokyo-night"/>
+</p>
